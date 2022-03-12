@@ -1,0 +1,11 @@
+run this python file in any system with python installed
+and also make sure that libraries like flask,render_template
+,request,redirect,url_for,pandas and csv are pre-installed  
+
+at first run python file server.py
+
+the contact data will be stored in csv file contactdb.csv 
+and the login details will be stored in database.csv
+
+all html files required for web application will be stored
+in the templates page
